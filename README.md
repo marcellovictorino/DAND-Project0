@@ -2,7 +2,7 @@
 
 This project was completed as part of the course requirements of Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) certification.
 
-The complete code and analysis rationale can be found in the [jupyter notebook](https://github.com/marcellovictorino/DAND-Project0/blob/master/Project%200%20-%20Weather%20Trend.ipynb).
+The complete code and analysis rationale can be found in this [browser friendly version](https://github.com/marcellovictorino/DAND-Project0/blob/master/Project%200%20-%20Weather%20Trend.html) or the actual [jupyter notebook](https://github.com/marcellovictorino/DAND-Project0/blob/master/Project%200%20-%20Weather%20Trend.ipynb) or this .
 
 ## Overview
 
